@@ -1,3 +1,9 @@
+/*
+개발자 : 이가현 
+개발일 : 2021.09.08.
+문의 : hye0yun1@naver.com 
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
